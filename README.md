@@ -7,4 +7,4 @@ From our findings in this data set we are able to see:
 
 Male gamers across all ages purchase the game the most and have the largest total purchase value across genders 
 
-Final Critic is the item within the Heroes of Pymoli that is the most popular and profitable yet. (Purchase count = 13, )
+Final Critic is the item within the Heroes of Pymoli that is the most popular and profitable yet. (Purchase count = 13, Total Purchase Value $59.99 )
