@@ -6,11 +6,11 @@ Student Assignment levearaging Python library Pandas to analyze csv purchasing d
 
 From our findings in this data set we are able to see:
 
-  1. 20-24 year olds purchase Heroes of Pymoli more frequently than any other age group and spend more on games than any other age group (Purchase count as seen in the Purchasing Analysis (Age) data frame = 365 and Total Purchase Value = $1,114.06.) 
+  1.  20-24 year olds purchase Heroes of Pymoli more frequently than any other age group and spend more on games than any other age group (Purchase count as seen in the Purchasing Analysis (Age) data frame = 365 and Total Purchase Value = $1,114.06.) 
 
-  2. Male gamers across all ages purchase the game the most and have the largest total purchase value across genders 
+  2.  Male gamers across all ages purchase the game the most and have the largest total purchase value across genders 
 
-  3. Final Critic is the item within the Heroes of Pymoli that is the most popular and profitable yet. (Purchase count = 13, Total Purchase Value $59.99 )
+  3.  Final Critic is the item within the Heroes of Pymoli that is the most popular and profitable yet. (Purchase count = 13, Total Purchase Value $59.99 )
 
 ##  Background - Heroes of Pymoli ## 
 
